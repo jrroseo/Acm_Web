@@ -39,3 +39,7 @@ No navegador, digite: localhost/nomedapastaquecriou/
 <br><br>
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias.
+<br><br>
+O LOGIN:<br>
+USÚARIO = 1020304050 <br>
+SENHA = 12345 <br>
